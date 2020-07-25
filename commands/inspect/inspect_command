@@ -1,0 +1,1 @@
+$(eval q=decodeURIComponent(`$(querystring)`);$(urlfetch json https://pastebin.com/raw/FOOrBARj))
