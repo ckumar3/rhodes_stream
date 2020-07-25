@@ -1,4 +1,7 @@
-"hi"
+function nbgame(s){
+    return "Hello, world!";
+}
+nbgame(q)
 // !commands edit !inspect $(eval
 // if (q === "") {
 //     "Please choose something to inspect"

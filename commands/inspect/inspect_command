@@ -1,1 +1,1 @@
-!commands add !inspect $(eval q=decodeURIComponent(`$(querystring)`);$(urlfetch json https://raw.githubusercontent.com/ckumar3/rhodes_stream/master/commands/inspect/inspect.js))
+!commands edit inspect $(eval var q=decodeURIComponent(`$(querystring)`);$(urlfetch json http://cdn.jsdelivr.net/gh/ckumar3/rhodes_stream/master/commands/inspect/inspect.js))
